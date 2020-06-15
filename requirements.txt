@@ -1,7 +1,7 @@
 numpy
 scipy
 opencv-python<4.2.0
-dlib
+#dlib
 face_alignment
 torch>=1.4.0
 torchvision>=0.5.0
